@@ -1,0 +1,7 @@
+SourceCode/allegro.log
+.vscode/
+allegro.log
+*.o
+*.out
+*.exe
+*.dll
