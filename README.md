@@ -116,13 +116,20 @@ Download the game from the **Releases** section on GitHub.
 - 若 Windows 顯示安全性警告，請點選 **更多資訊 → 仍要執行**  
   If Windows shows a warning, click **More info → Run anyway**
 
+- 輸入法請切換為英文
+  Please switch the input method to English before playing.
+
 ---
 
 ## 使用技術 Tech Stack
 
 - C
 - Allegro 5
-- Makefile
+
+---
+## 遊戲資料 Game Data
+
+- 完整怪物與技能圖鑑請參考：[Skills & Monsters Guide](docs/Dessert_Hop_Skills&Monsters.pdf)
 
 ---
 
